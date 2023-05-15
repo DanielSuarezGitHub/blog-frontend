@@ -1,2 +1,1 @@
-# blog-frontend
-React front end for my blog API.
+A blog frontend 
